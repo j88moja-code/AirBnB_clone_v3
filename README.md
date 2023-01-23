@@ -153,10 +153,22 @@ EOF  all  create  destroy  help  quit  show  update
 ## Bugs
 No known bugs at this time. 
 
-## Authors
+## Original Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
 Second part of Airbnb: Joann Vuong
+
+# AirBnB Clone V3 - RESTful API
+
+## Description
+
+Integrate Flask web framework and REST into the AirBnB Clone project.
+
+## Authors
+
+* Ntobeko Sithole - [Github](https://github.com/j88moja-code)
+* Lebohang Motaung - [Github]()
+
 ## License
 Public Domain. No copy write protection. 
