@@ -168,7 +168,7 @@ Integrate Flask web framework and REST into the AirBnB Clone project.
 ## Authors
 
 * Ntobeko Sithole - [Github](https://github.com/j88moja-code)
-* Lebohang Motaung - [Github]()
+* Lebohang Motaung - [Github](https://github.com/5l3e2b6o/)
 
 ## License
 Public Domain. No copy write protection. 
